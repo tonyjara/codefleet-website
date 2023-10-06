@@ -1,4 +1,4 @@
-# Welcome to Next Guild Website
+# Welcome to the Next Guild Website
 
 This project is the official website of Next Guild, built using [Next.js](https://nextjs.org/), a robust framework for building React applications. The project encapsulates the essence of Next Guild while providing an interactive platform for both the team and the community.
 

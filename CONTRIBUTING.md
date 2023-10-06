@@ -11,14 +11,15 @@ This project uses [Prettier](https://prettier.io/) to maintain a consistent code
 Before submitting your PR, ensure your code is formatted according to the project's Prettier configuration:
 
 1. Install Prettier:
-    ```bash
-    npm install --save-dev prettier
-    ```
+
+   ```bash
+   npm install --save-dev prettier
+   ```
 
 2. Run Prettier on your code:
-    ```bash
-    npx prettier --write .
-    ```
+   ```bash
+   npx prettier --write .
+   ```
 
 This will automatically format your code according to the project's Prettier configuration.
 
