@@ -12,7 +12,7 @@ To get the project up and running on your local machine, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/next-guild-website.git
-   cd next-guild-website
+   cd guild-website
    ```
 
 2. **Install dependencies**:
