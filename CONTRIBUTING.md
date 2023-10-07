@@ -1,6 +1,6 @@
-# Contributing to CodeGuild
+# Contributing to CodeFleet
 
-We welcome contributions to CodeGuild and thank you for taking the time to contribute! Here are some guidelines to help ensure your contribution is smoothly integrated.
+We welcome contributions to CodeFleet and thank you for taking the time to contribute! Here are some guidelines to help ensure your contribution is smoothly integrated.
 
 ## Code Formatting with Prettier
 
@@ -34,6 +34,6 @@ The GitHub Action will run Prettier's `--check` command on all files in the PR t
 3. Make your changes and format your code with Prettier.
 4. Commit your changes with a descriptive commit message.
 5. Push your branch to your fork on GitHub.
-6. Open a PR against the main branch of the CodeGuild repository.
+6. Open a PR against the main branch of the CodeFleet repository.
 
-Thank you for contributing to CodeGuild!
+Thank you for contributing to CodeFleet!
