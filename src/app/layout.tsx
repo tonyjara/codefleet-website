@@ -1,12 +1,12 @@
-import '@/styles/globals.css';
+import '@/src/styles/globals.css';
 import { Metadata } from 'next';
 
 import { siteConfig } from 'config/site';
-import { fontSans } from 'lib/fonts';
-import { cn } from 'lib/utils';
-import { TailwindIndicator } from 'components/tailwind-indicator';
-import { ThemeProvider } from 'components/theme-provider';
-import { SiteHeader } from '@/components/nav/site-header';
+import { fontSans } from '@/src/lib/fonts';
+import { cn } from '@/src/lib/utils';
+import { TailwindIndicator } from '@/src/components/tailwind-indicator';
+import { ThemeProvider } from '@/src/components/theme-provider';
+import { SiteHeader } from '@/src/components/nav/site-header';
 
 export const metadata: Metadata = {
   title: {
